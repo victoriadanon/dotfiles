@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = victoria.danon@edhec.com
+	name = Victoria
